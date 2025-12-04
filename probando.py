@@ -1,1 +1,0 @@
-print("Es solo un archivo para probar")
